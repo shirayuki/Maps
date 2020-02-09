@@ -1,7 +1,7 @@
 # Maps
 
 Maps is a [MediaWiki](https://www.mediawiki.org) extension to work with and visualize geographical
-information. 
+information.
 
 Features:
 
